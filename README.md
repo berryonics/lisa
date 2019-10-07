@@ -1,2 +1,2 @@
 # vik
-An AI-driven therapy chatbot. 
+An AI-driven therapy solution.  
