@@ -1,2 +1,2 @@
 # lisa
-An AI-driven therapy talkbot.  
+An AI-driven conversational chatbot.  
